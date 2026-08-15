@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakharam-course/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/sakharam-course/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/sakharam-course/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sakharam-course/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sakharam-course/Leetcode_Problems/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sakharam-course/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sakharam-course/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
